@@ -1,7 +1,7 @@
 # BIT 2118 Scientific Computing Group Work
 
-Name: Samwel Abuga Manono
-Reg No: BSCCS/2024/56213
+Name: Alvin Kandie Kerieny
+Reg No: BSCCS/2024/55351
 Unit: BIT 2118 Scientific Computing
 
 This repository has my individual work for the group tasks 2 to 20. For each task I did the following:
